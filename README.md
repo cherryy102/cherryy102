@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Damian Wiśniowski
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
 - Check my  [portfolio](https://portfolio.gryimprezowe.pl/)
 
 <!---
